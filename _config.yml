@@ -1,7 +1,7 @@
 name: Better Life Boutique
 favicon: null
-layout_spectrum: 0.09580652764998376
-typography_spectrum: 0.3047210790682584
+layout_spectrum: 0.24671
+typography_spectrum: 0.51023
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#2bb673'
+    - '#693178'
+    - '#fafdfc'
+    - '#c1abc5'
+    - '#6e6e6e'
   brandStrength: 0.09222133713774383
   lightness: 0.6096213301643729
   saturation: 0.4584698183462024
